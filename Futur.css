@@ -1,0 +1,39 @@
+.u-section-1 .u-sheet-1 {min-height: 593px}
+.u-section-1 .u-text-1 {font-weight: 700; margin: 20px auto 0}
+.u-section-1 .u-text-2 {font-weight: 700; margin: 23px auto 0 0}
+.u-section-1 .u-text-3 {font-weight: 700; margin: 20px auto 0 0}
+.u-section-1 .u-image-1 {width: 702px; height: 373px; margin: 20px auto 0 0}
+.u-section-1 .u-text-4 {margin: -327px 0 0 715px}
+.u-section-1 .u-text-5 {margin: 20px 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-4 {margin-left: 615px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-4 {margin-left: 505px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 741px}
+.u-section-1 .u-image-1 {width: 540px; height: 287px}
+.u-section-1 .u-text-4 {margin-top: -241px; margin-left: 415px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 635px}
+.u-section-1 .u-image-1 {width: 340px; height: 181px}
+.u-section-1 .u-text-4 {margin-top: -135px; margin-left: 315px} }.u-section-2 .u-sheet-1 {min-height: 213px}
+.u-section-2 .u-text-1 {font-weight: 700; margin: 21px 0 0}
+.u-section-2 .u-text-2 {margin: 20px auto 21px 0}.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-text-1 {font-weight: 700; margin: 20px 0 0}
+.u-section-3 .u-text-2 {font-weight: 700; margin: 20px 0 0}
+.u-section-3 .u-image-1 {width: 669px; height: 397px; margin: -8px 0 0 auto}
+.u-section-3 .u-text-3 {margin: -339px 689px 60px 0} 
+
+@media (max-width: 1199px){ .u-section-3 .u-text-3 {margin-right: 489px} }
+
+@media (max-width: 991px){ .u-section-3 .u-text-3 {margin-right: 269px} }
+
+@media (max-width: 767px){ .u-section-3 .u-sheet-1 {min-height: 482px}
+.u-section-3 .u-image-1 {width: 540px; height: 320px}
+.u-section-3 .u-text-3 {margin-top: -310px; margin-right: 89px} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 363px}
+.u-section-3 .u-image-1 {width: 340px; height: 201px}
+.u-section-3 .u-text-3 {margin-right: 0} }.u-section-4 .u-sheet-1 {min-height: 188px}
+.u-section-4 .u-text-1 {font-weight: 700; margin: 21px 0 0}
+.u-section-4 .u-text-2 {margin: 20px 0 21px}

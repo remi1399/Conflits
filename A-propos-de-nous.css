@@ -1,0 +1,51 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/photouniv2.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 911px}
+.u-section-1 .u-layout-wrap-1 {margin: 306px auto 0 0}
+.u-section-1 .u-image-1 {min-height: 310px; background-image: url("images/remi.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-layout-cell-2 {min-height: 310px}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-text-1 {margin: 67px 0 0}
+.u-section-1 .u-icon-1 {height: 32px; width: 32px; margin: 30px auto 0 0}
+.u-section-1 .u-text-2 {margin: -29px auto 0 41px}
+.u-section-1 .u-image-2 {min-height: 310px; background-image: url("images/baptiste.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-3 {padding: 30px}
+.u-section-1 .u-layout-cell-4 {min-height: 310px}
+.u-section-1 .u-container-layout-4 {padding: 30px}
+.u-section-1 .u-text-3 {margin: 67px 0 0}
+.u-section-1 .u-icon-2 {height: 32px; width: 32px; margin: 30px auto 0 9px}
+.u-section-1 .u-text-4 {margin: -29px auto 0 50px}
+.u-section-1 .u-text-5 {font-size: 1.25rem; font-weight: normal; margin: 115px auto 60px 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 292px}
+.u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-1 {min-height: 256px}
+.u-section-1 .u-layout-cell-2 {min-height: 256px}
+.u-section-1 .u-text-2 {margin-left: 32px}
+.u-section-1 .u-image-2 {min-height: 256px}
+.u-section-1 .u-layout-cell-4 {min-height: 256px}
+.u-section-1 .u-text-4 {margin-left: 38px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 820px}
+.u-section-1 .u-image-1 {min-height: 392px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-text-2 {margin-left: 56px}
+.u-section-1 .u-image-2 {min-height: 392px}
+.u-section-1 .u-layout-cell-4 {min-height: 100px}
+.u-section-1 .u-text-4 {margin-left: 67px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 1312px}
+.u-section-1 .u-image-1 {min-height: 588px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-2 {margin-left: 98px}
+.u-section-1 .u-image-2 {min-height: 588px}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-4 {margin-left: 118px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 876px}
+.u-section-1 .u-image-1 {min-height: 370px}
+.u-section-1 .u-text-2 {margin-left: 60px}
+.u-section-1 .u-image-2 {min-height: 370px}
+.u-section-1 .u-text-4 {margin-left: 73px} }
